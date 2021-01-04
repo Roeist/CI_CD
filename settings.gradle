@@ -1,0 +1,2 @@
+rootProject.name = "Academy CI CD"
+include ':app'
